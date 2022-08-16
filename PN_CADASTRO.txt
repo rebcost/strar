@@ -1,0 +1,2 @@
+PN_BASE: Big Brother Brasil 22
+PN_CADASTRAR: 8978954
